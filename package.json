@@ -1,0 +1,13 @@
+{
+  "name": "temperature-converter",
+  "version": "1.0.0",
+  "description": "A simpler temperature converter with tests that run via github actions",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
